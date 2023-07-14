@@ -1,0 +1,105 @@
+{
+	"features": [
+		{
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.54832735,
+							9.89245194
+						],
+						[
+							115.50998875,
+							9.91773515
+						],
+						[
+							115.53548578,
+							9.95566069
+						],
+						[
+							115.57382836,
+							9.9303762
+						],
+						[
+							115.54832735,
+							9.89245194
+						]
+					]
+				]
+			},
+			"properties": {
+				"id": "CAPELLA_C06_SP_SLC_HH_20230418181103_20230418181132",
+				"constellation": "capella",
+				"collection": "capella-slc",
+				"providerName": "capellaspace",
+				"up42:usageType": [
+					"DATA"
+				],
+				"providerProperties": {
+					"sar:frequency_band": "X",
+					"capella:product_category": "custom",
+					"capella:collect_id": "269712d8-4992-467e-8dc7-85b22ef4ef86",
+					"locale:datetime": "2023-04-19T02:11:17.011945+0800",
+					"capella:image_width": 5050.095977747562,
+					"sar:looks_range": 1,
+					"locale:time": "02:11:17.011945",
+					"proj:shape": [
+						12196,
+						14864
+					],
+					"sar:center_frequency": 9.65,
+					"sat:orbit_state": "ascending",
+					"sar:pixel_spacing_azimuth": 0.41,
+					"processing:software": {
+						"Capella SAR Processor": "2.39.3"
+					},
+					"sar:resolution_range": 0.27,
+					"sar:resolution_azimuth": 0.45,
+					"view:incidence_angle": 45.4,
+					"capella:image_length": 5041.392493507492,
+					"sar:looks_equivalent_number": 1,
+					"capella:orbital_plane": 53,
+					"sar:looks_azimuth": 1,
+					"sar:observation_direction": "left",
+					"sar:polarizations": [
+						"HH"
+					],
+					"sar:instrument_mode": "spotlight",
+					"locale:timezone": "Asia/Shanghai",
+					"view:look_angle": 41,
+					"capella:squint_angle": -0.1,
+					"capella:billable_area": 25448449.79399671,
+					"sar:product_type": "SLC",
+					"sar:pixel_spacing_range": 0.34
+				},
+				"sceneId": "CAPELLA_C06_SP_SLC_HH_20230418181103_20230418181132",
+				"producer": "capella-space",
+				"acquisitionDate": "2023-04-18T18:11:17.011946Z",
+				"start_datetime": "2023-04-18T18:11:15.433043Z",
+				"end_datetime": "2023-04-18T18:11:18.590849Z",
+				"cloudCoverage": null,
+				"resolution": 0.37,
+				"deliveryTime": "MINUTES"
+			},
+			"type": "Feature",
+			"bbox": [
+				115.50998875,
+				9.89245194,
+				115.57382836,
+				9.95566069
+			]
+		}
+	],
+	"links": [
+		{
+			"rel": "self",
+			"href": "https://api.up42.com/catalog/hosts/capellaspace/stac/search"
+		},
+		{
+			"rel": "next",
+			"href": "https://api.up42.com/catalog/hosts/capellaspace/stac/search?next=eyJwcm92aWRlck5hbWUiOiJjYXBlbGxhc3BhY2UiLCJuZXh0T2Zmc2V0Ijo1MDB9"
+		}
+	],
+	"type": "FeatureCollection"
+}

@@ -1,0 +1,84 @@
+.wrapper{
+    height: 90%;
+    width: 93%;
+    margin-top: 0%;
+    margin-bottom: 0px;
+    margin-left: 7%;
+}
+.inner {
+    height: 100%;
+    width: 100%;
+    text-align: center;
+}
+
+.view{height: 100%;
+    width: 100%;
+    margin-top: 0px;
+    margin-bottom: 0px}
+.cesium-viewer-bottom {
+    display: none;
+}
+.button{
+    z-index: 1;
+}
+.search_button{
+    // position: absolute;
+    // background-color: rgb(118, 141, 216);
+    // top: 0%;
+     left: 5%;
+    // overflow: hidden;
+    // z-index: 100;
+    opacity: 0.6;
+}
+
+.search_area {
+    height: 60%;
+    width: 10%;
+    border-style: solid;
+    border-color: white;
+    background-color: hsl(240, 60%, 2%);  
+    opacity: 0.6;
+    margin-left: 0%;
+    box-sizing: border-box;
+    position: absolute;
+    text-align: left;
+    top: 5.5%;
+    z-index: 100;
+    padding: 0%;
+  }
+.search_id {
+    color: rgb(255, 255, 255);
+    border-color: rgba(219, 206, 206, 0.808);
+    z-index: 100;
+    padding: 5%;
+    border-style: solid;
+}
+.ant-input{
+    color: white;
+    background-color: black;
+    width: 80px;
+}
+.ant-select {
+    box-sizing: border-box;
+    color: rgb(255, 255, 255);
+    background-color: rgba(0, 0, 0, 0.88);
+}
+.ant-select-single.ant-select-sm .ant-select-selector {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    color: #fff;
+    font-size: 12px;
+    line-height: 1.5714285714285714;
+    list-style: none;
+    font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,'Noto Sans',sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Noto Color Emoji';
+    display: flex;
+    border-radius: 4px;
+    background-color: black;
+}
+.ant-btn {
+    font-size: 14px;
+    height: 26px; 
+    /* padding: 4px 15px; */
+    border-radius: 6px;
+}

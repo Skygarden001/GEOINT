@@ -1,0 +1,115 @@
+
+.wrapper{
+    height: 80%;
+    width: 25%;
+    margin-left: 0%;
+    box-sizing: border-box;
+    background-color: #58525260;
+    border: solid;
+    border-color:bisque;
+    position: absolute;
+    text-align: left;
+    top: 5.5%;
+    font-size: 20px;
+    z-index: 100;
+    padding: 0%;
+}
+.cesium-svgPath-svg {
+    position: absolute;
+    background-color: rgb(118, 141, 216);
+    top: 6%;
+    left: 5%;
+    overflow: hidden;
+    z-index: 100;
+}
+.button {
+    flex: auto;
+    text-align: center;
+    list-style: none;
+    cursor: pointer;
+    color: #eee;
+    padding: 9px 10.5px 7px;
+    width: 5%;
+}
+.cesium-svgPath-svg_satellite {
+    position: absolute;
+    top: 2%;
+    left: 20%;
+    overflow: hidden;
+    z-index: 100;
+    background: #3b66c4;
+    color: white;
+    padding: 4px;
+    width: 60%;
+    text-align: center;
+}
+.cesium-svgPath-svg_Satellite {
+    position: absolute;
+    top: 7%;
+    left: 17%;
+    overflow: hidden;
+    z-index: 100;
+    
+}
+.cesium-svgPath-svg_Mode {
+    position: absolute;
+    top: 12%;
+    left: 20%;
+    overflow: hidden;
+    z-index: 100;
+    background: #3b66c4;
+    color: white;
+    padding: 4px;
+    width: 60%;
+    text-align: center;
+}
+.cesium-svgPath-svg_mode {
+    position: absolute;
+    top: 18%;
+    left: 40%;
+    overflow: hidden;
+    z-index: 100;
+    color: white;
+}
+.cesium-svgPath-svg_Time {
+    position: absolute;
+    top: 24%;
+    left: 20%;
+    overflow: hidden;
+    z-index: 100;
+    background: #3b66c4;
+    color: white;
+    padding: 4px;
+    width: 60%;
+    text-align: center;
+    
+}
+.cesium-svgPath-svg_time {
+    position: absolute;
+    top: 30%;
+    left: 14%;
+    overflow: hidden;
+    z-index: 100;
+    color: white;
+}
+.cesium-svgPath-svg_Search{
+    position: absolute;
+    top: 15%;
+    left: 25%;
+    width: 50%;
+    overflow: hidden;
+    background-color: rgb(8, 61, 233);
+    color: rgb(0, 0, 0);
+    z-index: 100;
+}
+.Data_table{
+    position: absolute;
+    top: 30%;
+    left: 5%;
+    overflow: hidden;
+    color: antiquewhite;
+    z-index: 100;
+    width: 90%;
+}
+
+

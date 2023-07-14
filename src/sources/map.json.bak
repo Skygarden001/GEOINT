@@ -1,0 +1,116 @@
+{
+	"features": [
+		{
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							112.7307803,
+							16.63444239
+						],
+						[
+							112.69629944,
+							16.666732
+						],
+						[
+							112.72927089,
+							16.69945342
+						],
+						[
+							112.76375316,
+							16.66715973
+						],
+						[
+							112.7307803,
+							16.63444239
+						]
+					]
+				]
+			},
+			"properties": {
+				"id": "01",
+				"satellite_name": "CAPELLA_09",
+				"mode": "SL",
+				"start_datetime": "2023-06-21T10:20:56.220198Z",
+				"imaging_time": "24.96 seconds",
+				"resolution": "0.5m"
+		}
+		},
+		{
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							114.09002995,
+							10.90649397
+						],
+						[
+							114.05623638,
+							10.93831532
+						],
+						[
+							114.08807451,
+							10.97139345
+						],
+						[
+							114.1218685,
+							10.93956996
+						],
+						[
+							114.09002995,
+							10.90649397
+						]
+					]
+				]
+			},
+			"properties": {
+				"id": "02",
+				"satellite_name": "CAPELLA_10",
+				"mode": "SL",
+				"start_datetime": "2023-06-21T10:00:19.148133Z",
+				"imaging_time": "25.89 seconds",
+				"resolution": "0.5m"
+		}
+		},
+		{
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.54203674,
+							9.95669613
+						],
+						[
+							115.50922254,
+							9.92350561
+						],
+						[
+							115.54194581,
+							9.89174699
+						],
+						[
+							115.57476323,
+							9.92493169
+						],
+						[
+							115.54203674,
+							9.95669613
+						]
+					]
+				]
+			},
+			"properties": {
+				"id": "3",
+				"satellite_name": "CAPELLA_09",
+				"mode": "SL",
+				"start_datetime": "2023-06-20T20:31:35.582659Z",
+				"imaging_time": "30.29 seconds",
+				"resolution": "0.55m"
+		}
+		}
+	],
+	"type": "FeatureCollection"
+}
